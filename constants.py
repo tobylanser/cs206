@@ -4,6 +4,8 @@ import constants as c
 
 #import variables and vectors
 
+numberOfGenerations = 10
+
 frontLegSensorValues = numpy.zeros(1000)
 backLegSensorValues = numpy.zeros(1000)
 
